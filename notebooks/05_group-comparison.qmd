@@ -4,7 +4,7 @@ title: "Group Comparison"
 
 ## Task
 
-Compare PRAMS state alcohol-use percentages across maternal age groups. Then compare anxiety and depression in overall state rows with paired dots and a difference plot. Alcohol use, binge drinking, depression, and anxiety refer to the three months before pregnancy.
+Compare PRAMS reporting-location alcohol-use percentages across maternal age groups. Then compare anxiety and depression in overall location rows with paired dots and a difference plot. Alcohol use, binge drinking, depression, and anxiety refer to the three months before pregnancy.
 
 ```{r}
 library(readr)

@@ -17,4 +17,4 @@ Prompts are on the course page.
 - `setup.R`: required R packages.
 - `_quarto.yml`: notebook rendering settings.
 
-PRAMS values are state and subgroup percentages. Alcohol use, binge drinking, depression, and anxiety refer to the three months before pregnancy. The legacy column names contain `birth`.
+PRAMS values are location and subgroup percentages. Alcohol use, binge drinking, depression, and anxiety refer to the three months before pregnancy. The legacy column names contain `birth`.
