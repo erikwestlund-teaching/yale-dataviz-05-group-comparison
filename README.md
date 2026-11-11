@@ -1,4 +1,4 @@
-# AI-Augmented Analytics for Data Visualization: Module 5: Group Comparison
+# AI-Augmented Analytics for Data Visualization: Module 7: Group Comparison
 
 Prompts are on the course page.
 
