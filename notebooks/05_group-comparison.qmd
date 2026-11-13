@@ -4,12 +4,16 @@ title: "Group Comparison"
 
 ## Task
 
-Compare PRAMS reporting-location alcohol-use percentages across maternal age groups. Then compare anxiety and depression in overall location rows with paired dots and a difference plot. Alcohol use, binge drinking, depression, and anxiety refer to the three months before pregnancy.
+Compare group means in the NHANES file, then paired estimates and their differences in the PRAMS file. The steps are in the module guide.
 
 ```{r}
+#| message: false
 library(readr)
 library(dplyr)
+library(tidyr)
+library(forcats)
 library(ggplot2)
+library(scales)
 ```
 
 ## Analysis
